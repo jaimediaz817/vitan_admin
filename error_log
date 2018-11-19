@@ -1,0 +1,43 @@
+[18-Sep-2018 16:12:49 Etc/GMT] PHP Fatal error:  Uncaught ArgumentCountError: PDO::__construct() expects at least 1 parameter, 0 given in /home/vitancom/public_html/admin/test.php:4
+Stack trace:
+#0 /home/vitancom/public_html/admin/test.php(4): PDO->__construct()
+#1 {main}
+  thrown in /home/vitancom/public_html/admin/test.php on line 4
+[18-Sep-2018 16:13:15 Etc/GMT] PHP Fatal error:  Uncaught ArgumentCountError: PDO::__construct() expects at least 1 parameter, 0 given in /home/vitancom/public_html/admin/test.php:4
+Stack trace:
+#0 /home/vitancom/public_html/admin/test.php(4): PDO->__construct()
+#1 {main}
+  thrown in /home/vitancom/public_html/admin/test.php on line 4
+[18-Sep-2018 16:39:56 Etc/GMT] PHP Notice:  Undefined variable: pdo in /home/vitancom/public_html/admin/test.php on line 11
+[18-Sep-2018 16:39:56 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/vitancom/public_html/admin/test.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitancom/public_html/admin/test.php on line 11
+[18-Sep-2018 16:39:59 Etc/GMT] PHP Notice:  Undefined variable: pdo in /home/vitancom/public_html/admin/test.php on line 11
+[18-Sep-2018 16:39:59 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/vitancom/public_html/admin/test.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitancom/public_html/admin/test.php on line 11
+[18-Sep-2018 16:40:04 Etc/GMT] PHP Notice:  Undefined variable: pdo in /home/vitancom/public_html/admin/test.php on line 11
+[18-Sep-2018 16:40:04 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/vitancom/public_html/admin/test.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitancom/public_html/admin/test.php on line 11
+[18-Sep-2018 16:40:24 Etc/GMT] PHP Notice:  Undefined variable: pdo in /home/vitancom/public_html/admin/test.php on line 11
+[18-Sep-2018 16:40:24 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/vitancom/public_html/admin/test.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitancom/public_html/admin/test.php on line 11
+[18-Sep-2018 16:40:26 Etc/GMT] PHP Notice:  Undefined variable: pdo in /home/vitancom/public_html/admin/test.php on line 11
+[18-Sep-2018 16:40:26 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/vitancom/public_html/admin/test.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitancom/public_html/admin/test.php on line 11
+[18-Sep-2018 16:41:02 Etc/GMT] PHP Notice:  Array to string conversion in /home/vitancom/public_html/admin/test.php on line 14
+[18-Sep-2018 16:41:04 Etc/GMT] PHP Notice:  Array to string conversion in /home/vitancom/public_html/admin/test.php on line 14
+[18-Sep-2018 16:52:38 Etc/GMT] PHP Notice:  Array to string conversion in /home/vitancom/public_html/admin/test.php on line 14
+[18-Sep-2018 16:52:40 Etc/GMT] PHP Notice:  Array to string conversion in /home/vitancom/public_html/admin/test.php on line 14
+[18-Sep-2018 16:53:11 Etc/GMT] PHP Notice:  Array to string conversion in /home/vitancom/public_html/admin/test.php on line 14
+[18-Sep-2018 16:53:13 Etc/GMT] PHP Notice:  Array to string conversion in /home/vitancom/public_html/admin/test.php on line 14
+[18-Sep-2018 16:53:56 Etc/GMT] PHP Notice:  Array to string conversion in /home/vitancom/public_html/admin/test.php on line 14
+[18-Sep-2018 16:55:30 Etc/GMT] PHP Notice:  Array to string conversion in /home/vitancom/public_html/admin/test.php on line 14
