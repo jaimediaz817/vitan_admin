@@ -1,5 +1,0 @@
-RewriteEngine on
-RewriteBase /
-
-RewriteCond %{HTTP_HOST} ^admin\.com.co [NC]
-RewriteRule ^test/(.*)$ http://admin.vitan.com.co/$1 [R=301,L]
